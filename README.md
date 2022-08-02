@@ -1,31 +1,50 @@
+##  Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img height="150" align="right" src=https://octodex.github.com/images/dojocat.jpg>
+
 ## Hi there, I'm Luis 👨‍💻
 
+- 🧙‍♂️ Im a DEV FullStack !
 
-- 👨‍🎓 Studying: Development full stack
-- 🧙‍♂️ Learning: ReactJS, NodeJS
-
- <div>
-  <a href="https://github.com/lisgustavo/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisgustavo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisgustavo&layout=compact&langs_count=7&theme=dark"/>
-    
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Luis-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />            
-  <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
-  
-  <div> 
-  <a href="https://www.instagram.com/lisgustavu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lisgustavo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://www.linkedin.com/in/luis-gustavo-martins-06230222b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+
+
+<br><br/>
+
+<div align="center">
+  <a href="https://github.com/lisgustavo">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lisgustavo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisgustavo&layout=compact"/> 
+  </a>
+</div>
+<br><br>
+
+<div align="center">
+<img height="350" src=https://media.giphy.com/media/C9xz2ZeHr5rqiLL8y4/giphy.gif>
+ </div>
+
+ 
+ ## **Technologies I use in my day**  
+<div><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+ 
+ 
+ ## **My Social Networks**
+
+<p align="left">
+  <a href="lisgustavo@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+  <a href="https://www.linkedin.com/in/luis-gustavo-martins-06230222b" alt="Linkedin" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+
+  <a href="https://wa.me/5534999277944" alt="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  
   ![Snake animation](https://github.com/lisgustavo/lisgustavo/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
