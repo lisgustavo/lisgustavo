@@ -18,9 +18,6 @@
 </div>
 <br><br>
 
-<div align="center">
-<img height="350" src=https://media.giphy.com/media/C9xz2ZeHr5rqiLL8y4/giphy.gif>
- </div>
 
  
  ## **Technologies I use in my day**  
